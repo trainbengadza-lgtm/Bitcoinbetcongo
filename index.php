@@ -1,6 +1,5 @@
 <?php
 declare(strict_types=1);
-
 /* ============================================================
    BITCOINBET - VERSION POSTGRESQL / NEON - Prêt pour Netlify
    Base déjà créée sur Neon - plus besoin de CREATE DATABASE
